@@ -1,0 +1,12 @@
+https://www.raspberrypi.org/help/ 
+https://www.youtube.com/watch?v=Dc16mKFA7Fo 
+http://www.brucerayne.com/scanz_explain.html 
+http://www.brucerayne.com/scanz_explain.html 
+https://upcommons.upc.edu/bitstream/2099.1/25207/1/TFG.pdf;jsessionid=2FF60374F0BFF464D36B9E9F9024D704? 
+https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2019_Projects/3D_Scanner_mfx2_tbs47/ 
+https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2019_Projects/3D_Scanner_mfx2_tbs47/code/FINAL.py 
+https://github.com/openphotogrammetry/meshroomcl/tree/main/meshroom 
+https://github.com/simonfuhrmann/mve/wiki/Build-Instructions-for-Windows 
+https://github.com/simonfuhrmann/mve/wiki/MVE-Users-Guide 
+https://github.com/QLRO/AA-Scan/blob/master/Server.py 
+https://peterfalkingham.com/2020/03/07/automating-photogrammetry-3d-printing-an-arduino-and-an-android-phone/ 
